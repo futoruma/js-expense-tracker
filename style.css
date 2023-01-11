@@ -1,0 +1,25 @@
+#firstthreecols {
+    background-color: lightblue;
+}
+
+table {
+    margin-top: 24px;
+}
+
+th {
+    width: 180px;
+}
+
+td {
+    height: 20px;
+    background-color: azure;
+}
+
+.deletebutton {
+    background-color: firebrick;
+    color: snow;
+    height: 27px;
+    width: 72px;
+    font-size: 16px;
+    border-radius: 5px;
+}
